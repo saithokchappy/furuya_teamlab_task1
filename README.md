@@ -17,7 +17,7 @@ Todoリスト
 ## Usage
 
 1. 任意のローカルフォルダで全てのファイルを配置する。
-2. todolist_furuya.htmlを開く。
+2. todolist_furuya.htmlをGoogle Chromeで開く。
 3. フォームに文章を入れ追加ボタンを押すとリストが更新される。
 4. 削除ボタンを押すとリストが全削除される。
 
