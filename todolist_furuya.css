@@ -1,0 +1,19 @@
+body {background-color: #90ee90; }
+
+p {
+ font-size:large;
+ text-decoration: underline;
+}
+
+
+#formButton {
+  color: black
+}
+
+#clearButton {
+  color: red
+}
+
+#list {
+  color: blue;
+}
